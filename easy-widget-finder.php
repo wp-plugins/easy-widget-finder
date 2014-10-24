@@ -3,7 +3,7 @@
  * Plugin Name:       Easy Widget Finder
  * Plugin URI:        http://wordpress.org/plugins/easy-widget-finder/
  * Description:       Plugin which helps you to find your widget easily in your WordPress Admin
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Nilambar Sharma
  * Author URI:        http://www.nilambar.net
  * Text Domain:       easy-widget-finder
@@ -15,7 +15,7 @@ class Easy_Widget_Finder_Plugin {
 
   protected $plugin_slug = 'easy-widget-finder';
 
-  protected $plugin_version = '1.0.0';
+  protected $plugin_version = '1.0.1';
 
   private static $_this;
 
