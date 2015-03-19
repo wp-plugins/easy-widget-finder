@@ -1,0 +1,14 @@
+.ewf-form-wrap{
+  margin:10px 0;
+  text-align: left;
+}
+#available-widgets .ewf-show{
+  display: inline;
+}
+#widget-list .widget{
+  display: inline;
+}
+#available-widgets .ewf-hide{
+  display: none!important;
+}
+
